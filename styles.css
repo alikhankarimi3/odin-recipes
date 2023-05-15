@@ -1,0 +1,39 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: #528B2E;
+    font-weight: 700;
+    font-family: Garamond, Georgia ;
+}
+.sub {
+    text-align: center;
+    font-size: 32px;
+    color: #6c9e4f;
+    font-family: "Brush script M7", Georgia, sans-serif;
+    font-weight: 500;
+}
+h3 {
+    font-size: 24px;
+    color: green;
+    font-weight: 500;
+}
+h4 {
+    font-size: 20px;
+    color: rgb(0, 168, 0);
+    font-weight: 300;
+}
+#home-pic {
+    text-align: center;
+}
+.recipe-pic {
+    text-align: center;
+}
+.content {
+    color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.link {
+    text-align: center;
+    font-family: verdana, sans-serif;
+    font-size: 20px;
+}
