@@ -31,6 +31,8 @@ h4 {
 .content {
     color: #333333;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+
 }
 .link {
     text-align: center;
@@ -38,6 +40,6 @@ h4 {
     font-size: 20px;
 }
 .margin {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 32px;
+    margin-right: 32px;
 }
