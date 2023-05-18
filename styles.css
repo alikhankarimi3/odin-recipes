@@ -4,6 +4,7 @@
     color: #528B2E;
     font-weight: 700;
     font-family: Garamond, Georgia ;
+    margin-top: 40px;
 }
 .sub {
     text-align: center;
@@ -11,6 +12,8 @@
     color: #6c9e4f;
     font-family: "Brush script M7", Georgia, sans-serif;
     font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 h3 {
     font-size: 24px;
@@ -25,19 +28,33 @@ h4 {
 #home-pic {
     text-align: center;
 }
-.recipe-pic {
-    text-align: center;
-}
 .content {
     color: #333333;
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.5;
-
 }
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
 .link {
-    text-align: center;
     font-family: verdana, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background-color: #6c9e4f;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.5);
+    padding: 16px;
+    margin: 10px;
+    border: solid 0px;
+    border-radius: 10px;
+}
+.recipe-pic {
+    text-align: center;
+    display: block;
 }
 .margin {
     margin-left: 32px;
